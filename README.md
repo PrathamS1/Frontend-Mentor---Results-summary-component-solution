@@ -13,11 +13,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -27,8 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/webPreview.png)
-
+![Web Preview](./screenshot/webPreview.png)
+![Mobile preview](./screenshot/mobilePreview1.png)
+![Mobile Preview](./screenshot/mobilePreview2.png)
 
 ### Links
 
