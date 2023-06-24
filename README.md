@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Web Preview](./screenshot/webPreview.png)
-![Mobile Preview](./screenshot/mobilePreview1.png)
-![Mobile Preview](./screenshot/mobilePreview2.png)
+![Web Preview](./screenshot/webPreview.jpg)
+![Mobile Preview](./screenshot/mobilePreview1.jpg)
+![Mobile Preview](./screenshot/mobilePreview2.jpg)
 
 ### Links
 
