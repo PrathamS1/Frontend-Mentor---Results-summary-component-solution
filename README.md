@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution Files on GitHub](https://github.com/PrathamS1/Frontend-Mentor---Results-summary-component-solution)
 - Live Site URL: [Live Site on Vercel](https://frontend-mentor-results-summary-component-solution.vercel.app/)
 
 ## My process
